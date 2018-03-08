@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExuiSkinPacker", "ExuiSkinPacker\ExuiSkinPacker.vcxproj", "{BBF54677-7564-4C47-8B10-6DB5103EF6E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF54677-7564-4C47-8B10-6DB5103EF6E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBF54677-7564-4C47-8B10-6DB5103EF6E0}.Debug|Win32.Build.0 = Debug|Win32
+		{BBF54677-7564-4C47-8B10-6DB5103EF6E0}.Release|Win32.ActiveCfg = Release|Win32
+		{BBF54677-7564-4C47-8B10-6DB5103EF6E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
